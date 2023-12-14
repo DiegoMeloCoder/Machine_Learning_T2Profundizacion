@@ -27,7 +27,7 @@ paquete scikit-learn, en el cual con el uso de una semilla aleatoria se obtuvo u
 ![RandomForestAccuracy](https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/assets/149011345/0d8d06ca-d3a1-4cb0-b205-cd48277b063a)
 
 Como se puede observar en la primera imagen, los resultados obtenidos con el modelo de regresion logistica, no son buenos, dado que al tener dos valores unicos posbiles, este modelo se asemeja a uno al azar.
-A continuación se presentan los resultados obtenidos mediante el uso del modelo random forest, en el siguiente archivo .csv:
+A continuación se presentan los resultados obtenidos mediante el uso del modelo random forest, en el siguiente archivo .csv: [https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/commit/b69d7206644d5f5621418c5183dbe86c06f8f3f7]
 ## Conclusiones
 
 
