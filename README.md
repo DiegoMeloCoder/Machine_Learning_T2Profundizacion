@@ -61,7 +61,7 @@ Por tanto, la elección de Random Forest resalta la importancia de seleccionar m
 El resultado que se obtiene mediante el arbol de decisiones en el modelo Random Forest implica que, en la clasificacion de salida participaron desde el primer "rama" hasta la ultima, pues todas estan interconectadas, es por esto que este modelo es capaz de analisar datos no relacionados linealmente y muy amplios, lo que en consecuencia lo hace un modelo computacionalmente costoso.
 
 Tras realizar el analisis de datos, se observa que los datos mas relevantes para lograr obtener una predicción adecuada son los que se encuentra en los respectivos sensores de cada satelite y los de tamaño y categoria en la tabla de datos basicos, ademas del id en la tabla de clasificación.
-
+Los datos suministrados para entrenar el modelo fueron de suma importancia, pues las mediciones de los sensores hechos por cada satelite, además del tamaño, son los responsables de que la precision sea alta, pues son la etiqueta, lleva implicitas estas caracteristicas
 
 ## Instrucciones de Uso:
 1. Abre y ejecuta los notebooks con extensión .ipynb encontrados en [Notebooks Ejecutables](https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/tree/main/Notebooks%20ejectuables) para visualizar los datos y modelo empleados.
