@@ -50,8 +50,8 @@ Basándonos en las imágenes anteriores, podemos deducir dos observaciones impor
 En primer lugar, el modelo más adecuado para completar los datos faltantes en la columna 'etiqueta', proporcionada por el docente en la base de datos, es el Random Forest, con una tasa de acierto de aproximadamente el 93%. 
 En segundo lugar, notamos que el modelo de regresión logística parece estar realizando predicciones aleatorias, lo cual podría explicarse mediante el teorema de Shannon. Según este teorema, en la transmisión de datos en bits, el error máximo que se puede cometer es del 50%. En consecuencia, podríamos inferir análogamente que nuestro modelo de regresión logística asignó bits de 0 y 1, correspondientes a negativo y positivo respectivamente, de manera aleatoria.
 
-:+1:
-  A continuación se presentan los resultados obtenidos mediante el uso del modelo random forest, en el siguiente archivo .csv:  [predicciones_random_forest.csv](https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/blob/main/Output%20de%20Predicciones/predicciones_random_forest.csv)
+
+A continuación se presentan los resultados obtenidos mediante el uso del modelo random forest, en el siguiente archivo .csv:  [predicciones_random_forest.csv](https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/blob/main/Output%20de%20Predicciones/predicciones_random_forest.csv)
 
 ## Conclusiones
 
@@ -61,7 +61,8 @@ Por tanto, la elección de Random Forest resalta la importancia de seleccionar m
 
 
 ## Instrucciones de Uso:
-1. Abre y ejecuta los notebooks con extensión .ipynb para visualizar los datos y modelo empleados. POR FAVOR: antes de correr el codigo sube la base de datos datos_sensores encontrada en el menú
+1. Abre y ejecuta los notebooks con extensión .ipynb encontrados en [Notebooks Ejecutables](https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/blob/main/Output%20de%20Predicciones/predicciones_random_forest.csv)
+ para visualizar los datos y modelo empleados. POR FAVOR: antes de correr el codigo sube la base de datos datos_sensores encontrada en el menú
 3. Encuentra las predicciones en el archivo predicciones.csv.
 
 ## Nota:
