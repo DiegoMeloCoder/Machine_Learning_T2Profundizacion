@@ -11,7 +11,7 @@
 
 
 ## Descripción:
-
+:+1:
   Dentro del extenso ámbito del aprendizaje automático, se encuentran diversos tipos de modelos, cada uno con sus propias ventajas y características que los hacen aplicables a casos particulares y los distinguen de otros modelos. En el marco de este taller, nos enfocaremos en dos métodos específicos: la regresión logística y Random Forest (métodos de conjunto). La progresión de este taller se organiza en las siguientes etapas: análisis exploratorio de datos (EDA), entrenamiento del modelo seleccionado y predicción de la información faltante mediante el modelo más confiable." 
   
 
@@ -51,7 +51,7 @@ En primer lugar, el modelo más adecuado para completar los datos faltantes en l
 En segundo lugar, notamos que el modelo de regresión logística parece estar realizando predicciones aleatorias, lo cual podría explicarse mediante el teorema de Shannon. Según este teorema, en la transmisión de datos en bits, el error máximo que se puede cometer es del 50%. En consecuencia, podríamos inferir análogamente que nuestro modelo de regresión logística asignó bits de 0 y 1, correspondientes a negativo y positivo respectivamente, de manera aleatoria.
 
 
-A continuación se presentan los resultados obtenidos mediante el uso del modelo random forest, en el siguiente archivo .csv: :+1: [predicciones_random_forest.csv](https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/blob/main/Output%20de%20Predicciones/predicciones_random_forest.csv)
+A continuación se presentan los resultados obtenidos mediante el uso del modelo random forest, en el siguiente archivo .csv:  [predicciones_random_forest.csv](https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/blob/main/Output%20de%20Predicciones/predicciones_random_forest.csv)
 
 ## Conclusiones
 
