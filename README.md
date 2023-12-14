@@ -8,6 +8,7 @@
 - Realizar un análisis exploratorio con los datos proporcionados.
 - Entrenar un modelo de machine learning para clasificar los datos faltantes en la columna 'etiqueta'.
 - Generar un informe completo que resuma los resultados y conclusiones.
+![cerebromachinelearning](https://github.com/DiegoMeloCoder/Machine_Learning_T3Profundizacion/assets/149011345/df070237-37ba-42d9-80f2-5d7d0977deb8)
 
 ## Descripción:
 Este proyecto aborda la exploración de datos, modelado predictivo y clasificación de datos faltantes en una columna específica ('etiqueta'). Se realiza un análisis exploratorio de los datos seguido de la implementación de un modelo de machine learning para clasificar los registros que carecen de etiqueta.
