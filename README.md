@@ -28,9 +28,13 @@ Figura 1
 Usando comandos vistos previamente en clase se diseñó los modelos usando el dataset visto previamente en EDA. En dicho diseño se destinó el 20% de los datos al testeo del mismo, y el 80% restante al entrenamiento.
 Los resultados del testeo se muestran en las siguientes imágenes.
 Regresion logística.
-((Pones aquí la imagen del repote de la regresión logística ))
+
+![RegresiónAccuracy](https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/assets/149011345/bddcb550-c8c2-4dab-b1b1-74942587974f)
+
 Random Forest.
-((Pones aquí la imagen del repote del random fores))
+
+![RandomForestAccuracy](https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/assets/149011345/a6bef6c8-b657-4479-8918-2687d8575cee)
+
 
 Basándonos en las imágenes anteriores, podemos deducir dos observaciones importantes. En primer lugar, el modelo más adecuado para completar los datos faltantes en la columna 'etiqueta', proporcionada por el docente en la base de datos, es el Random Forest, con una tasa de acierto de aproximadamente el 93%. En segundo lugar, notamos que el modelo de regresión logística parece estar realizando predicciones aleatorias, lo cual podría explicarse mediante el teorema de Shannon. Según este teorema, en la transmisión de datos en bits, el error máximo que se puede cometer es del 50%. En consecuencia, podríamos inferir análogamente que nuestro modelo de regresión logística asignó bits de 0 y 1, correspondientes a negativo y positivo respectivamente, de manera aleatoria.
 
