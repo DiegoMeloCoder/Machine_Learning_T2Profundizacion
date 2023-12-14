@@ -15,6 +15,7 @@ paquete scikit-learn, en el cual con el uso de una semilla aleatoria se obtuvo u
 
 ##Conclusiones
 
+![Uploading AngyPaolaEspaldaH33x42DTGnegraL.png…]()
 
 
 ## Instrucciones de Uso:
