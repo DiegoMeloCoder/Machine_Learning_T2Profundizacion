@@ -24,6 +24,16 @@ Se generó un reporte usando el comando; “ProfileReport” de la librería “
 Figura 1
 ![datasetstatics](https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/assets/149011345/321a7bef-5a21-4d06-b1d8-a357402e7a05)
 
+## Entrenamiento
+Usando comandos vistos previamente en clase se diseñó los modelos usando el dataset visto previamente en EDA. En dicho diseño se destinó el 20% de los datos al testeo del mismo, y el 80% restante al entrenamiento.
+Los resultados del testeo se muestran en las siguientes imágenes.
+Regresion logística.
+((Pones aquí la imagen del repote de la regresión logística ))
+Random Forest.
+((Pones aquí la imagen del repote del random fores))
+
+Basándonos en las imágenes anteriores, podemos deducir dos observaciones importantes. En primer lugar, el modelo más adecuado para completar los datos faltantes en la columna 'etiqueta', proporcionada por el docente en la base de datos, es el Random Forest, con una tasa de acierto de aproximadamente el 93%. En segundo lugar, notamos que el modelo de regresión logística parece estar realizando predicciones aleatorias, lo cual podría explicarse mediante el teorema de Shannon. Según este teorema, en la transmisión de datos en bits, el error máximo que se puede cometer es del 50%. En consecuencia, podríamos inferir análogamente que nuestro modelo de regresión logística asignó bits de 0 y 1, correspondientes a negativo y positivo respectivamente, de manera aleatoria.
+
 ## Resultados
 Resulta interesante la precision del modelo Logistico, pues fue de aproximadamente 0.5, es decir que acierta en la mitad de las predicciones, podriamos realicionar esta prediccion con el azar. Despues de buscar un modelo en el que la precision aumente, nos tomamos con Random Forest, del 
 paquete scikit-learn, en el cual con el uso de una semilla aleatoria se obtuvo una precision por encima del 90%. De esta manera se cumple con el objetivo del taller, pues los 100 datos faltantes podran ser predecidos con una taza de acierto muy alta, asi la mision se cumple con exito
