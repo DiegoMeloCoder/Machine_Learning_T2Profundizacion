@@ -51,7 +51,7 @@ En segundo lugar, notamos que el modelo de regresión logística parece estar re
 
 
 :+1: 
-A continuación se presentan los resultados obtenidos mediante el uso del modelo random forest, en el siguiente archivo .csv:  [predicciones_random_forest.csv](https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/blob/main/Output%20de%20Predicciones/predicciones_random_forest.csv)
+    A continuación se presentan los resultados obtenidos mediante el uso del modelo random forest, en el siguiente archivo .csv:  [predicciones_random_forest.csv](https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/blob/main/Output%20de%20Predicciones/predicciones_random_forest.csv)
 
 ## Conclusiones
 
