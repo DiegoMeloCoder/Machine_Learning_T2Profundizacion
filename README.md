@@ -24,7 +24,7 @@ Figura 1
 ![datasetstatics](https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/assets/149011345/321a7bef-5a21-4d06-b1d8-a357402e7a05)
 
 ## Entrenamiento
-Usando comandos vistos previamente en clase se diseñó los modelos usando el dataset visto previamente en EDA. En dicho diseño se destinó el 20% de los datos al testeo del mismo, y el 80% restante al entrenamiento.
+Usando comandos vistos previamente en clase se diseñó los modelos usando el dataset visto previamente en EDA. En esta sección, empleamos la base de datos proporcionada por el docente, seleccionando como variables predictoras las columnas correspondientes a 'tamaño', 'clasificación', 'sensor_orion', 'sensor_vega', 'sensor_polaris' y 'sensor_antares'. La elección de estas columnas se realizó mediante una consulta (query) que fue estudiada en la primera parte del curso de Profundización en Automatización y Control. Posteriormente, importamos y leímos los datos utilizando las bibliotecas 'pandas' y 'sqlite3'. En dicho diseño se destinó el 20% de los datos al testeo del mismo, y el 80% restante al entrenamiento.
 Los resultados del testeo se muestran en las siguientes imágenes.
 
 
