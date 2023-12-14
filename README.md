@@ -58,6 +58,9 @@ A continuación se presentan los resultados obtenidos mediante el uso del modelo
 Para el modelo Logístico la precisión fue aproximadamente del 50%, sugiriendo un rendimiento similar al azar, por tanto se opta por el modelo de Random Forest, que logró una precisión superior al 90%, cumpliendo con éxito el objetivo de clasificar los datos faltantes.
 Por tanto, la elección de Random Forest resalta la importancia de seleccionar modelos adecuados, ya que superó significativamente al modelo logístico.
 
+El resultado que se obtiene mediante el arbol de decisiones en el modelo Random Forest implica que, en la clasificacion de salida participaron desde el primer "rama" hasta la ultima, pues todas estan interconectadas, es por esto que este modelo es capaz de analisar datos no relacionados linealmente y muy amplios, lo que en consecuencia lo hace un modelo computacionalmente costoso.
+
+Tras realizar el analisis de datos, se observa que los datos mas relevantes para lograr obtener una predicción adecuada son los que se encuentra en los respectivos sensores de cada satelite y los de tamaño y categoria en la tabla de datos basicos, ademas del id en la tabla de clasificación.
 
 
 ## Instrucciones de Uso:
