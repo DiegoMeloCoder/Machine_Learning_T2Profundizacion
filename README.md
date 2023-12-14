@@ -1,8 +1,5 @@
 # Análisis Exploratorio de Datos y Clasificación con Machine Learning
-Modelo entrenado por: 
-Jhon Sebastian Montenegro
-Giovanni Pantoja Moras
-Diego Alejadnro Melo
+Modelo entrenado por: Jhon Sebastian Montenegro, Giovanni Pantoja Mora, Diego Alejandro Melo
 
 ![machinelearning](https://github.com/DiegoMeloCoder/Machine_Learning_T3Profundizacion/assets/149011345/a04f0eb9-5618-4217-a56b-47687f9f4ff3)
 
