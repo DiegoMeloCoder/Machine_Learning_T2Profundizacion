@@ -63,7 +63,7 @@ Por tanto, la elección de Random Forest resalta la importancia de seleccionar m
 ## Instrucciones de Uso:
 1. Abre y ejecuta los notebooks con extensión .ipynb encontrados en [Notebooks Ejecutables](https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/tree/main/Notebooks%20ejectuables) para visualizar los datos y modelo empleados.
 
-3. Encuentra el resultado de la prediccion del modelo, en la siguiente carpeta [Outputs](https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/tree/main/Notebooks%20ejectuables) para visualizar los datos y modelo empleados.
+3. Encuentra el resultado de la prediccion del modelo, en la siguiente carpeta [Outputs](https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/tree/main/Output%20de%20Predicciones)
 
 ## Nota:
 - La columna 'etiqueta' solo tiene dos valores posibles: 'Positivo' o 'Negativo'.
