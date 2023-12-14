@@ -1,5 +1,8 @@
 # Análisis Exploratorio de Datos y Clasificación con Machine Learning
 
+![machinelearning](https://github.com/DiegoMeloCoder/Machine_Learning_T3Profundizacion/assets/149011345/a04f0eb9-5618-4217-a56b-47687f9f4ff3)
+
+
 ## Objetivos:
 - Realizar un análisis exploratorio con los datos proporcionados.
 - Entrenar un modelo de machine learning para clasificar los datos faltantes en la columna 'etiqueta'.
@@ -16,7 +19,7 @@ paquete scikit-learn, en el cual con el uso de una semilla aleatoria se obtuvo u
 ##Conclusiones
 
 
-![nick1](https://github.com/DiegoMeloCoder/Machine_Learning_T3Profundizacion/assets/149011345/3ab71518-d17b-47e6-82a9-8b4224d53fba)
+
 
 
 ## Instrucciones de Uso:
