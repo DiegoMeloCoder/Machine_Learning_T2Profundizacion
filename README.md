@@ -8,10 +8,10 @@
 - Realizar un análisis exploratorio con los datos proporcionados.
 - Entrenar un modelo de machine learning para clasificar los datos faltantes en la columna 'etiqueta'.
 - Generar un informe completo que resuma los resultados y conclusiones.
-![cerebromachinelearning](https://github.com/DiegoMeloCoder/Machine_Learning_T3Profundizacion/assets/149011345/df070237-37ba-42d9-80f2-5d7d0977deb8)
+
 
 ## Descripción:
-Este proyecto aborda la exploración de datos, modelado predictivo y clasificación de datos faltantes en una columna específica ('etiqueta'). Se realiza un análisis exploratorio de los datos seguido de la implementación de un modelo de machine learning para clasificar los registros que carecen de etiqueta.
+Este proyecto aborda la exploración de datos, modelado predictivo y clasificación de datos faltantes en una columna específica ('etiqueta'). Se realiza un análisis exploratorio de los datos, seguido de la implementación de un modelo de machine learning para clasificar los registros que carecen de etiqueta y asi generar los nuevos datos como el output del modelo.
 
 ## Resultados
 Resulta interesante la precision del modelo Logistico, pues fue de aproximadamente 0.5, es decir que acierta en la mitad de las predicciones, podriamos realicionar esta prediccion con el azar. Despues de buscar un modelo en el que la precision aumente, nos tomamos con Random Forest, del 
