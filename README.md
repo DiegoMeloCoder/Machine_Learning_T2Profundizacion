@@ -1,5 +1,8 @@
 # Análisis Exploratorio de Datos y Clasificación con Machine Learning
-
+Modelo entrenado por: 
+Jhon Sebastian Montenegro
+Giovanni Pantoja Moras
+Diego Alejadnro Melo
 
 ![machinelearning](https://github.com/DiegoMeloCoder/Machine_Learning_T3Profundizacion/assets/149011345/a04f0eb9-5618-4217-a56b-47687f9f4ff3)
 
@@ -15,12 +18,12 @@
 Dentro del extenso ámbito del aprendizaje automático, se encuentran diversos tipos de modelos, cada uno con sus propias ventajas y características que los hacen aplicables a casos particulares y los distinguen de otros modelos. En el marco de este taller, nos enfocaremos en dos métodos específicos: la regresión logística y Random Forest (métodos de conjunto). La progresión de este taller se organiza en las siguientes etapas: análisis exploratorio de datos (EDA), entrenamiento del modelo seleccionado y predicción de la información faltante mediante el modelo más confiable." 
   
 
-Como se puede observar en la primera imagen, los resultados obtenidos con el modelo de regresion logistica, no son buenos, dado que al tener dos valores unicos posbiles, este modelo se asemeja a uno al azar.
   
 ## EDA
 Se generó un reporte usando el comando; “ProfileReport” de la librería “ydata_profiling” del dataset que se usara tanto para el entrenamiento del modelo usando Regresion Logistica como para el modelo usando Random Forest.
 
-Figura 1
+
+
 ![datasetstatics](https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/assets/149011345/321a7bef-5a21-4d06-b1d8-a357402e7a05)
 
 ## Entrenamiento
