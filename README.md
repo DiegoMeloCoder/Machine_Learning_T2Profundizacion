@@ -5,9 +5,9 @@
 
 
 ## Objetivos:
-- Realizar un análisis exploratorio con los datos proporcionados.
-- Entrenar un modelo de machine learning para clasificar y predecir los datos faltantes en la columna 'etiqueta'.
-- Generar un informe completo que resuma los resultados y conclusiones.
+- Realizar un análisis exploratorio con la base de datos que proporciona el cliente, encontrada en la carpeta base de datos.
+- Entrenar un modelo de machine learning con la capcidad de clasificar datos faltantes, de acuerdo a su entrenamiento.
+- Abordar el desarrollo del modelo haciendo un analisis de resultados en formato informe (encontrado a continuación).
 
 
 ## Descripción:
@@ -16,7 +16,12 @@
 ## Resultados
 Resulta interesante la precision del modelo Logistico, pues fue de aproximadamente 0.5, es decir que acierta en la mitad de las predicciones, podriamos realicionar esta prediccion con el azar. Despues de buscar un modelo en el que la precision aumente, nos tomamos con Random Forest, del 
 paquete scikit-learn, en el cual con el uso de una semilla aleatoria se obtuvo una precision por encima del 90%. De esta manera se cumple con el objetivo del taller, pues los 100 datos faltantes podran ser predecidos con una taza de acierto muy alta, asi la mision se cumple con exito
-(Imagenes que contienen la precision de cada modelo pueden ser encontradas en la carpeta de imagenes en la rama Main)
+![RegresiónAccuracy](https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/assets/149011345/174135af-f723-4c64-9a2b-5f6db856de77)
+
+![RandomForestAccuracy](https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/assets/149011345/0d8d06ca-d3a1-4cb0-b205-cd48277b063a)
+
+![MatrizConfusionRandomForest](https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/assets/149011345/668cc860-b905-453d-a386-3a3f73387c35)
+
 
 ## Conclusiones
 
