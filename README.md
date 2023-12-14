@@ -15,7 +15,8 @@ paquete scikit-learn, en el cual con el uso de una semilla aleatoria se obtuvo u
 
 ##Conclusiones
 
-![Uploading AngyPaolaEspaldaH33x42DTGnegraL.png…]()
+
+![nick1](https://github.com/DiegoMeloCoder/Machine_Learning_T3Profundizacion/assets/149011345/3ab71518-d17b-47e6-82a9-8b4224d53fba)
 
 
 ## Instrucciones de Uso:
