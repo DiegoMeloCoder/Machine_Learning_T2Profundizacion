@@ -13,6 +13,9 @@
 ## Descripción:
 :+1:
   Dentro del extenso ámbito del aprendizaje automático, se encuentran diversos tipos de modelos, cada uno con sus propias ventajas y características que los hacen aplicables a casos particulares y los distinguen de otros modelos. En el marco de este taller, nos enfocaremos en dos métodos específicos: la regresión logística y Random Forest (métodos de conjunto). La progresión de este taller se organiza en las siguientes etapas: análisis exploratorio de datos (EDA), entrenamiento del modelo seleccionado y predicción de la información faltante mediante el modelo más confiable." 
+  ![RandomForestAccuracy](https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/assets/149011345/0d8d06ca-d3a1-4cb0-b205-cd48277b063a)
+
+Como se puede observar en la primera imagen, los resultados obtenidos con el modelo de regresion logistica, no son buenos, dado que al tener dos valores unicos posbiles, este modelo se asemeja a uno al azar.
   
 ## EDA
 Se generó un reporte usando el comando; “ProfileReport” de la librería “ydata_profiling” del dataset que se usara tanto para el entrenamiento del modelo usando Regresion Logistica como para el modelo usando Random Forest.
@@ -24,9 +27,7 @@ Figura 1
 Resulta interesante la precision del modelo Logistico, pues fue de aproximadamente 0.5, es decir que acierta en la mitad de las predicciones, podriamos realicionar esta prediccion con el azar. Despues de buscar un modelo en el que la precision aumente, nos tomamos con Random Forest, del 
 paquete scikit-learn, en el cual con el uso de una semilla aleatoria se obtuvo una precision por encima del 90%. De esta manera se cumple con el objetivo del taller, pues los 100 datos faltantes podran ser predecidos con una taza de acierto muy alta, asi la mision se cumple con exito
 
-![RandomForestAccuracy](https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/assets/149011345/0d8d06ca-d3a1-4cb0-b205-cd48277b063a)
 
-Como se puede observar en la primera imagen, los resultados obtenidos con el modelo de regresion logistica, no son buenos, dado que al tener dos valores unicos posbiles, este modelo se asemeja a uno al azar.
 A continuación se presentan los resultados obtenidos mediante el uso del modelo random forest, en el siguiente archivo .csv: [https://github.com/DiegoMeloCoder/Machine_Learning_T2Profundizacion/commit/b69d7206644d5f5621418c5183dbe86c06f8f3f7]
 ## Conclusiones
 
